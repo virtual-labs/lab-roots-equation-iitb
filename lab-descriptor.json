@@ -61,9 +61,23 @@
         "deploy": true
     },
     {
+        "name": "Perturbation Method",
+        "short-name": "perturbation-method",
+        "repo": "https://github.com/virtual-labs/exp-roots-perturbation-method-iitb",
+        "tag": "v1.0.0",
+        "deploy": true
+    },
+    {
         "name": "Modified Newton Raphson Method",
         "short-name": "modified-newton-raphson-method",
         "repo": "https://github.com/virtual-labs/exp-roots-modified-newton-raphson-iitb",
+        "tag": "v1.0.0",
+        "deploy": true
+    },
+    {
+        "name": "Convergence and Computation Time",
+        "short-name": "convergence-computation-time",
+        "repo": "https://github.com/virtual-labs/exp-roots-convergence-computation-time-iitb",
         "tag": "v1.0.0",
         "deploy": true
     }
