@@ -64,7 +64,7 @@
         "name": "Perturbation Method",
         "short-name": "perturbation-method",
         "repo": "https://github.com/virtual-labs/exp-roots-perturbation-method-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     },
     {
@@ -78,7 +78,7 @@
         "name": "Convergence and Computation Time",
         "short-name": "convergence-computation-time",
         "repo": "https://github.com/virtual-labs/exp-roots-convergence-computation-time-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     }
 
